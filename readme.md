@@ -48,3 +48,7 @@ O código JavaScript consiste em três funções principais:
 ## Créditos
 
 As imagens usadas no aplicativo são obtidas do Unsplash.
+
+## Foto do Projeto
+
+![foto do projeto](shopp-buy.png)
